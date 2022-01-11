@@ -23,3 +23,15 @@ SO THAT my account balance is accurate when I am traveling
 GIVEN a user is on Budget App without an internet connection
 WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
+
+## How to run 
+
+Visit the [Deployed app](https://devonkuhn.github.io/Progressive-Budget/)
+
+OR
+
+1. Download this repo
+
+2. open a terminal 
+
+3. run `node server.js`
